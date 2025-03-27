@@ -1,0 +1,11 @@
+body {
+    background-image: url("ha.jpg");
+    background-color: grey;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 500%;
+}
