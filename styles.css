@@ -3,16 +3,17 @@
     background-size: 2000px 1500px;
 }
 
+img {
+    width: 600px;
+}
+
 .egy {
-    background-image: url("planet.of.the.apes.background.jpg");
+    display: flex;
+    justify-content: left; 
 }
 
 .ketto {
-    background-image: url("joker-2-wallpaper.jpg");
-}
-
-table {
-    border-collapse: collapse;
-    border-style: hidden;
-    height: 100%;
+    justify-content: center;
+    margin-left: 800px;
+    margin-right: 800px;
 }
