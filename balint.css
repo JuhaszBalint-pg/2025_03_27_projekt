@@ -1,6 +1,6 @@
 body {
     background-image: url("poa.png");
-    background-size: 1980px;
+    background-size: 2300px;
 }
 
 h1 {
@@ -108,7 +108,7 @@ li {
     color: gainsboro;
 }
 
-td:hover, th:hover, h4:hover, li:hover {
+td:hover, th:hover, h4:hover, li:hover, p:hover {
     background: rgba(0, 0, 0, 0.2);
     font-size: large;
     border: 1px solid rgba(0,0,0,0);
@@ -136,4 +136,10 @@ h4:hover {
     background: rgba(0, 0, 0, 0.2);
     font-size: large;
     border: 1px solid rgba(0,0,0,0);
+}
+
+p {
+    color: gainsboro;
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
 }
