@@ -1,0 +1,110 @@
+body {
+    background-image: url("poa.png");
+    background-size: 1980px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gainsboro;
+    background: rgba(0, 0, 0, 0.5);
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+h4 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gainsboro;
+    background: rgba(0, 0, 0, 0.5);
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gainsboro;
+    background: rgba(0, 0, 0, 0.5);
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gainsboro;
+    background: rgba(0, 0, 0, 0.5);
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+#ml {
+    margin-left: 43%;
+    margin-right: 42%;
+    color: gainsboro;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#imdb {
+    margin-left: 46%;
+    margin-right: 47%;
+    color: gainsboro;
+    background: rgba(0, 0, 0, 0.5);
+
+}
+
+#dir, ol {
+    margin-left: 45%;
+    margin-right: 45%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gainsboro;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+table {
+    margin-left: 10%;
+    margin-right: 10%;
+    border-collapse: collapse;
+    background: rgba(0, 0, 0, 0.5);
+    padding-bottom: 5px;
+}
+
+td {
+    color: gainsboro;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th {
+    color: gainsboro;
+}
+
+li {
+    padding-bottom: 3%;
+    color: gainsboro;
+    color: gainsboro;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#am {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gainsboro;
+    background: rgba(0, 0, 0, 0.5);
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#af {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gainsboro;
+    background: rgba(0, 0, 0, 0.5);
+    margin-left: 36%;
+    margin-right: 36%;
+}
+
+.link {
+    color: gainsboro;
+}
