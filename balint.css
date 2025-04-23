@@ -108,3 +108,8 @@ li {
 .link {
     color: gainsboro;
 }
+
+td:hover, th:hover, h4:hover, li:hover, ul:hover, ol:hover {
+    background: rgba(0, 0, 0, 0.2);
+    font-size: large;
+}
