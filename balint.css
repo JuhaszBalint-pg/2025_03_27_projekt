@@ -1,6 +1,6 @@
 body {
     background-image: url("poa.png");
-    background-size: 2300px;
+    background-size: 2100px 1600px;
 }
 
 h1 {
@@ -142,4 +142,5 @@ p {
     color: gainsboro;
     background: rgba(0, 0, 0, 0.5);
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
