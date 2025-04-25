@@ -1,30 +1,37 @@
 body {
-    background-image: url("ha.jpg");
+    background-image: url("kep.jpg");
     background-color: grey;
     background-repeat: no-repeat;
     background-size: cover;
 }
 h1{
-    color: white; opacity: 0.6;
+    color: white; opacity: 0.4;
     text-align: center;
     font-size: 500%;
     font-style: bold;
 }
+
 #long {
     word-break: break-all;
 }
 table {
     border-style: solid;
-    border-color: white; opacity: 0.8;
+    border-color: white; opacity: 0.85;
     border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
 }
 img {
-    height: 500px;
-    width: 800px;
+    height: 400px;
+    width: 600px;
 }
 td {
     color: white;
     font-family: 'Courier New', Courier, monospace;
     font-size: 27px;
-    background-color: black; opacity: 0.8;
+    background-color: black; opacity: 0.85;
+    padding-left: 20px;
+    padding-right: 15px;
+    text-align: justify;
 } 
+
