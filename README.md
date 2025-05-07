@@ -5,9 +5,9 @@
 _.fade-in { <br>
     animation: fadeIn 1.5s ease-in; <br>
     margin-bottom: 20px; <br>
-} <br>
+}_ <br>
 
-@keyframes fadeIn { <br>
+_@keyframes fadeIn { <br>
     0% { opacity: 0; transform: translateY(20px); } <br>
     100% { opacity: 1; transform: translateY(0); } <br>
 }_ <br>
@@ -25,9 +25,9 @@ _td:hover, th:hover, h4:hover, li:hover, p:hover { <br>
     background: rgba(0, 0, 0, 0.2); <br>
     font-size: large; <br>
     border: 1px solid rgba(0,0,0,0); <br>
-} <br>
+}_ <br>
 
-#ml { <br>
+_#ml { <br>
     margin-left: 43%; <br>
     margin-right: 42%; <br> 
     color: gainsboro; <br> 
@@ -49,9 +49,9 @@ _table { <br>
     border-collapse: collapse; <br>
     margin-left: auto; <br>
     margin-right: auto; <br>
-} <br>
+}_ <br>
  
-td { <br>
+_td { <br>
     color: white; <br>
     font-family: 'Courier New', Courier, monospace; <br> 
     font-size: 27px; <br>
