@@ -2,7 +2,7 @@
 
 **Dani's Codesnippet**
 
-.fade-in { <br>
+_.fade-in { <br>
     animation: fadeIn 1.5s ease-in; <br>
     margin-bottom: 20px; <br>
 } <br>
@@ -10,18 +10,18 @@
 @keyframes fadeIn { <br>
     0% { opacity: 0; transform: translateY(20px); } <br>
     100% { opacity: 1; transform: translateY(0); } <br>
-} <br>
+} <br>_
  
 📝 <ins>Dani's report: </ins> <br>
-    Azért választottam ezt a snippetemnek, <br>
+    _Azért választottam ezt a snippetemnek, <br>
     mert szerintem nagyon feldobja a weboldalt. <br>
     Alapjáraton én nagyon szeretem az ilyen egyszerű de nagyszerű animációkat, <br>
     és nagyon megörültem amikor ezt megtaláltam az interneten. <br>
-    😁 <br>
+    😊 <br>_
 
 **Bálint's Codesnippet** <br> 
 
-td:hover, th:hover, h4:hover, li:hover, p:hover { <br> 
+_td:hover, th:hover, h4:hover, li:hover, p:hover { <br> 
     background: rgba(0, 0, 0, 0.2); <br>
     font-size: large; <br>
     border: 1px solid rgba(0,0,0,0); <br>
@@ -35,15 +35,15 @@ td:hover, th:hover, h4:hover, li:hover, p:hover { <br>
 } <br> 
 
 📝 <ins>Bálint report:</ins> <br> 
-    A hover feldobja az oldal megjelesését, <br>
+    _A hover feldobja az oldal megjelesését, <br>
     #ml id-val ellátott számozatlan listák elhelyezése és véglegesítése nagy szenvedések árán <br>
     de végleges állapotába került, <br> 
     megérte. <br>
-    😁 <br>
+    😁 <br>_
 
 **Marci's Codesnippet** <br>
 
-table { <br>
+_table { <br>
     border-style: solid; <br>
     border-color: white; opacity: 0.85; <br>
     border-collapse: collapse; <br>
@@ -59,12 +59,13 @@ td { <br>
     padding-left: 20px; <br> 
     padding-right: 15px; <br> 
     text-align: justify; <br>
-} <br>
+} <br>_
 
-📝 <ins>Marci's report:</ins>
-Azert ez a kedvencem mert <br>
- itt nem tudtam az margin-left: auto mert ennek utána kellett járnom, <br>
- tehát tanultam valami újat <br>
+📝 <ins>Marci's report:</ins> <br>
+   _ Azert ez a kedvencem mert <br>
+     itt nem tudtam az margin-left: auto mert ennek utána kellett járnom, <br>
+     tehát tanultam valami újat <br>_
+    😄
 
 ~~GIVING UP~~  🛑
 
