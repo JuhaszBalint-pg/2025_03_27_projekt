@@ -10,7 +10,7 @@ _.fade-in { <br>
 @keyframes fadeIn { <br>
     0% { opacity: 0; transform: translateY(20px); } <br>
     100% { opacity: 1; transform: translateY(0); } <br>
-} <br>_
+}_ <br>
  
 📝 <ins>Dani's report: </ins> <br>
     _Azért választottam ezt a snippetemnek, <br>
@@ -32,7 +32,7 @@ _td:hover, th:hover, h4:hover, li:hover, p:hover { <br>
     margin-right: 42%; <br> 
     color: gainsboro; <br> 
     background: rgba(0, 0, 0, 0.5); <br> 
-} <br> 
+}_ <br> 
 
 📝 <ins>Bálint report:</ins> <br> 
     _A hover feldobja az oldal megjelesését, <br>
@@ -59,12 +59,12 @@ td { <br>
     padding-left: 20px; <br> 
     padding-right: 15px; <br> 
     text-align: justify; <br>
-} <br>_
+}_ <br>
 
 📝 <ins>Marci's report:</ins> <br>
-   _ Azert ez a kedvencem mert <br>
+   _Azert ez a kedvencem mert <br>
      itt nem tudtam az margin-left: auto mert ennek utána kellett járnom, <br>
-     tehát tanultam valami újat <br>_
+     tehát tanultam valami újat_ <br>
     😄
 
 ~~GIVING UP~~  🛑
