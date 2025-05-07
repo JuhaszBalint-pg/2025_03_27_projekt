@@ -1,6 +1,6 @@
 💯💯 ***Project TripleAs*** 💯💯
 
-**Dani's Codesnippet**
+**Dani's Codesnippet** 👨‍💻
 
 _.fade-in { <br>
     animation: fadeIn 1.5s ease-in; <br>
@@ -19,7 +19,7 @@ _@keyframes fadeIn { <br>
     és nagyon megörültem amikor ezt megtaláltam az interneten. <br>
     😊 <br>_
 
-**Bálint's Codesnippet** <br> 
+**Bálint's Codesnippet** 👨🏼‍💻 <br> 
 
 _td:hover, th:hover, h4:hover, li:hover, p:hover { <br> 
     background: rgba(0, 0, 0, 0.2); <br>
@@ -41,7 +41,7 @@ _#ml { <br>
     megérte. <br>
     😁 <br>_
 
-**Marci's Codesnippet** <br>
+**Marci's Codesnippet** 👨🏻‍💻 <br>
 
 _table { <br>
     border-style: solid; <br>
