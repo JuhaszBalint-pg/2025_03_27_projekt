@@ -1,0 +1,55 @@
+body {
+    background-image: url("copy-space-cinema-equipment.jpg");
+    background-size: 2000px 1500px;
+}
+
+img {
+    width: 500px;
+    box-shadow: 6px 10px 30px rgb(0, 0, 0); 
+    border-radius: 8px;
+}
+
+.egy {
+    display: flex;
+    justify-content: left; 
+}
+
+.ketto {
+    justify-content: center;
+    margin-left: 800px;
+    margin-right: 800px;
+}
+
+.container {
+    display: flex;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 10px;
+    animation: fadeIn 1.0s ease-in;
+    margin-bottom: 20px;
+  }
+  .left, .center, .right {
+    padding: 20px;
+  }
+  .left {
+    width: 33%;
+  }
+  .center {
+    width: 33%;
+  }
+  .right {
+    width: 33%;
+  }
+
+img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(20px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+

@@ -1,1 +1,18 @@
- School Project of Bálint, Dani and Marci
+💯💯 ***Project TripleAs*** 💯💯
+
+**Dani's Codesnippet**
+
+
+
+**Bálint's Codesnippet**
+
+
+
+**Marci's Codesnippet**
+
+
+
+
+~~GIVING UP~~  🛑
+
+**KEEP SEARCHING**  ✔️
