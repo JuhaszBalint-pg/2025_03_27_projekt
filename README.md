@@ -48,7 +48,7 @@ td:hover, th:hover, h4:hover, li:hover, p:hover {
 **Marci's Codesnippet** 👨🏻‍💻 <br>
 
 ```bash
-table { <br>
+table {
     border-style: solid;
     border-color: white; opacity: 0.85;
     border-collapse: collapse;
