@@ -108,7 +108,7 @@ li {
     color: gainsboro;
 }
 
-td:hover, th:hover, h4:hover, li:hover, p:hover {
+td:hover, th:hover, h4:hover, li:hover, p:hover{
     background: rgba(0, 0, 0, 0.2);
     font-size: large;
     border: 1px solid rgba(0,0,0,0);
@@ -143,4 +143,13 @@ p {
     background: rgba(0, 0, 0, 0.5);
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#bp {
+    color: gainsboro;
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 45%;
+    margin-right: 45%;
 }
