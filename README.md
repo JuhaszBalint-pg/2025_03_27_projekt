@@ -2,7 +2,7 @@
 
 **Dani's Codesnippet** 👨‍💻
 
-''' bash
+```bash
 .fade-in { 
     animation: fadeIn 1.5s ease-in; 
     margin-bottom: 20px; 
@@ -12,7 +12,7 @@
     0% { opacity: 0; transform: translateY(20px); }
     100% { opacity: 1; transform: translateY(0); }
 }
-'''
+```
 
 📝 <ins>Dani's report: </ins>
     _Azért választottam ezt a snippetemnek, 
@@ -23,7 +23,7 @@
 
 **Bálint's Codesnippet** 👨🏼‍💻 <br> 
 
-''' bash
+```bash
 td:hover, th:hover, h4:hover, li:hover, p:hover { 
     background: rgba(0, 0, 0, 0.2);
     font-size: large; 
@@ -35,8 +35,8 @@ td:hover, th:hover, h4:hover, li:hover, p:hover {
     margin-right: 42%; 
     color: gainsboro; 
     background: rgba(0, 0, 0, 0.5); 
-}  
-'''
+}
+```
 
 📝 <ins>Bálint report:</ins> 
     _A hover feldobja az oldal megjelesését, <br>
@@ -47,7 +47,7 @@ td:hover, th:hover, h4:hover, li:hover, p:hover {
 
 **Marci's Codesnippet** 👨🏻‍💻 <br>
 
-''' bash
+```bash
 table { <br>
     border-style: solid;
     border-color: white; opacity: 0.85;
@@ -65,8 +65,7 @@ _td {
     padding-right: 15px; 
     text-align: justify; 
 }
-'''
-
+```
 📝 <ins>Marci's report:</ins> <br>
    _Azert ez a kedvencem mert <br>
      itt nem tudtam az margin-left: auto mert ennek utána kellett járnom, <br>
